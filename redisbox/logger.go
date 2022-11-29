@@ -1,4 +1,4 @@
-package gormbox
+package redisbox
 
 import (
 	"go.uber.org/zap"

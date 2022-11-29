@@ -1,4 +1,4 @@
-module github.com/lyouthzzz/gobox/gorm
+module github.com/lyouthzzz/gobox/gormbox
 
 go 1.19
 
