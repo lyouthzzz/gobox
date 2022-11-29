@@ -1,4 +1,4 @@
-package gorm
+package gormbox
 
 import (
 	"github.com/go-sql-driver/mysql"

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package redisbox;
+
+option go_package = "github.com/lyouthzzz/gobox/redisbox";
+
+message Config {
+  repeated string addr = 1;
+  string password = 2;
+  int32 db = 3;
+}

@@ -1,4 +1,4 @@
-package gorm
+package gormbox
 
 import "go.uber.org/zap"
 

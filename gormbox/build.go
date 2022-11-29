@@ -1,4 +1,4 @@
-package gorm
+package gormbox
 
 import (
 	"gorm.io/gorm"

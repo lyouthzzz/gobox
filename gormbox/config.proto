@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-package gorm;
+package gormbox;
 
-option go_package = "github.com/lyouthzzz/gobox/gorm";
+option go_package = "github.com/lyouthzzz/gobox/gormbox";
 
 message Config {
   string driver = 1;
