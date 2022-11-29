@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package gorm;
+
+option go_package = "github.com/lyouthzzz/gobox/gorm";
+
+message Config {
+  string driver = 1;
+  string dsn = 2;
+}
